@@ -9,11 +9,13 @@ namespace CheckoutOrderTotal
         IList<Item> itemList = new List<Item>();
         public CheckoutItem()
         {
-            Item item1 = new Product(25, "Bread","PAC");
-            Item item2 = new Product(30, "Cockies", "PAC");
-            Item item3 = new Product(25, "Banana", "WGT");
-            Item item4 = new Product(50, "Wheat", "WGT");
-            Item item5 = new Product(120, "Chicken", "WGT");        
+            Item item1 = new Product(25, "Bread");
+            Item item2 = new Product(30, "Cockies");
+            Item item3 = new Product(25, "Banana");
+            Item item4 = new Product(50, "Wheat");
+            Item item5 = new Product(50,"Chicken");
+            //Item item4 = new ProductByWeight("Wheat",1,50);
+            //Item item5 = new ProductByWeight("Chicken",1, 50);
             itemList.Add(item1);
             itemList.Add(item2);
             itemList.Add(item3);
@@ -42,9 +44,26 @@ namespace CheckoutOrderTotal
             return null;
         }
 
-        public double CalculateTotalPrice(double actucalPrice, string productType, int productQuantity)
+        public double CalculateTotalPrice(string productName, int productQuantity)
         {
-            return (actucalPrice * productQuantity);
+            var itemDetails = FindItemByName(productName);
+            var  actualPrice = itemDetails.getPrice();
+            return (actualPrice * productQuantity);
+        }
+        public double CalculateTotalPrice(List<string> products)
+        {
+            double totalPrice = 0; 
+            double actualPrice;
+            
+            foreach (var item in products)
+            {
+                var itemDetails = FindItemByName(item);
+                actualPrice = itemDetails.getPrice();
+                totalPrice += actualPrice;
+
+            }
+
+            return totalPrice;
         }
     }
 }

@@ -11,3 +11,16 @@ C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\o
 C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.pdb
 C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.genruntimeconfig.cache
 C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.csproj.AssemblyReference.cache
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.exe
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.deps.json
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.runtimeconfig.json
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.runtimeconfig.dev.json
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.dll
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.pdb
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.csprojAssemblyReference.cache
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.AssemblyInfoInputs.cache
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.AssemblyInfo.cs
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.csproj.CoreCompileInputs.cache
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.dll
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.pdb
+C:\Users\a.bhagwan.bharti\source\repos\CheckoutOrderTotal\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.genruntimeconfig.cache

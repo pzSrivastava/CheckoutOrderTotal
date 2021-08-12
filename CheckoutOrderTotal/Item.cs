@@ -7,7 +7,7 @@ namespace CheckoutOrderTotal
     public interface Item
     {
         public string getName();
-        public string getType();
+     
 
         public double getPrice();
 

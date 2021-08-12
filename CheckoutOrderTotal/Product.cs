@@ -8,12 +8,10 @@ namespace CheckoutOrderTotal
     {
         private double Price;
         private string ProductName;
-        private string ProductType;
-        public Product(double Price,string name,string type)
+        public Product(double Price,string name)
         {
             this.Price = Price;
             this.ProductName = name;
-            this.ProductType = type;
         }
         public string getName()
         {
@@ -25,9 +23,5 @@ namespace CheckoutOrderTotal
             return Price;
         }
 
-        public string getType()
-        {
-            return ProductType;
-        }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\p.z.srivastava\\Source\\Repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj": {}
+    "C:\\Users\\a.bhagwan.bharti\\source\\repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\p.z.srivastava\\Source\\Repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj": {
+    "C:\\Users\\a.bhagwan.bharti\\source\\repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\p.z.srivastava\\Source\\Repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj",
+        "projectUniqueName": "C:\\Users\\a.bhagwan.bharti\\source\\repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj",
         "projectName": "CheckoutOrderTotal",
-        "projectPath": "C:\\Users\\p.z.srivastava\\Source\\Repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj",
-        "packagesPath": "C:\\Users\\p.z.srivastava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\p.z.srivastava\\Source\\Repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\obj\\",
+        "projectPath": "C:\\Users\\a.bhagwan.bharti\\source\\repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\CheckoutOrderTotal.csproj",
+        "packagesPath": "C:\\Users\\a.bhagwan.bharti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.bhagwan.bharti\\source\\repos\\CheckoutOrderTotal\\CheckoutOrderTotal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\p.z.srivastava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a.bhagwan.bharti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
