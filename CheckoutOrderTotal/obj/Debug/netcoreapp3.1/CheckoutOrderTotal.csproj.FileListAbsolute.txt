@@ -1,0 +1,13 @@
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.exe
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.deps.json
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.runtimeconfig.json
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.runtimeconfig.dev.json
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.dll
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\bin\Debug\netcoreapp3.1\CheckoutOrderTotal.pdb
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.AssemblyInfoInputs.cache
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.AssemblyInfo.cs
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.csproj.CoreCompileInputs.cache
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.dll
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.pdb
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.genruntimeconfig.cache
+C:\Users\p.z.srivastava\source\repos\CheckoutOrderTotalKata\CheckoutOrderTotal\obj\Debug\netcoreapp3.1\CheckoutOrderTotal.csproj.AssemblyReference.cache
